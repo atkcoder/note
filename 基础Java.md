@@ -283,7 +283,7 @@ Reader的间接子类，常用方法：
 
 # GUI编程
 
-**Java的图形化处理常用的两个包——   ** **java.awt** 和 **javax.swing**
+**Java**的图形化处理常用的两个包——   **java.awt** 和 **javax.swing**
 
 其中我们平时用的比较多的还是swing包
 
